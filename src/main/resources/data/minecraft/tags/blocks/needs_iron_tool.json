@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:uranium_ore",
+    "tutorialmod:uranium_block",
+    "tutorialmod:raw_uranium_block",
+    "tutorialmod:deepslate_uranium_ore"
+  ]
+}

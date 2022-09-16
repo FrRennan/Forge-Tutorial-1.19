@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tutorialmod:raw_uranium_block"
+    }
+  ],
+  "result": {
+    "item": "tutorialmod:raw_uranium",
+    "count": 9
+  }
+}
