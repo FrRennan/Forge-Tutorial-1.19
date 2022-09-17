@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=true": { "model": "tutorialmod:block/uranium_lamp_on" },
+    "lit=false": { "model": "tutorialmod:block/uranium_lamp_off" }
+  }
+}

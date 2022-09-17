@@ -1,6 +1,7 @@
 {
   "item.tutorialmod.uranium": "Uranium",
   "item.tutorialmod.raw_uranium": "Raw Uranium",
+  "item.tutorialmod.eight_ball": "Eight Ball",
 
   "block.tutorialmod.uranium_block": "Uranium Block",
   "block.tutorialmod.raw_uranium_block": "Raw Uranium Block",
@@ -8,6 +9,8 @@
   "block.tutorialmod.deepslate_uranium_ore": "Deepslate Uranium Ore",
   "block.tutorialmod.endstone_uranium_ore": "Endstone Uranium Ore",
   "block.tutorialmod.netherrack_uranium_ore": "Netherrack Uranium Ore",
+  "block.tutorialmod.jumpy_block": "Jumpy Block",
+  "block.tutorialmod.uranium_lamp": "Uranium Lamp",
 
   "itemGroup.tutorialtab": "Uranium Tutorial Tab"
 }
