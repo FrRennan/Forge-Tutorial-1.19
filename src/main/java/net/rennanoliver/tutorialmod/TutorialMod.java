@@ -17,7 +17,7 @@ public class TutorialMod {
     public static final String MOD_ID = "tutorialmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    //Comentário muito importante
+    //Comentário muito importante mesmo pkrl
     public TutorialMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
