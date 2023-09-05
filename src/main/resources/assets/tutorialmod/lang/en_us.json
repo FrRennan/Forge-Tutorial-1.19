@@ -2,6 +2,8 @@
   "item.tutorialmod.uranium": "Uranium",
   "item.tutorialmod.raw_uranium": "Raw Uranium",
   "item.tutorialmod.eight_ball": "Eight Ball",
+  "item.tutorialmod.onion": "Onion",
+  "item.tutorialmod.onion_seeds": "Onion seeds",
 
   "block.tutorialmod.uranium_block": "Uranium Block",
   "block.tutorialmod.raw_uranium_block": "Raw Uranium Block",
@@ -11,6 +13,8 @@
   "block.tutorialmod.netherrack_uranium_ore": "Netherrack Uranium Ore",
   "block.tutorialmod.jumpy_block": "Jumpy Block",
   "block.tutorialmod.uranium_lamp": "Uranium Lamp",
+  "block.tutorialmod.onion_crop": "onion Crop",
 
-  "itemGroup.tutorialtab": "Uranium Tutorial Tab"
+  "itemGroup.tutorialtab": "Uranium Tutorial Tab",
+  "entity.minecraft.villager.tutorialmod.uranium_master": "Uranium Master"
 }
